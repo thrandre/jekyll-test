@@ -1,0 +1,48 @@
+- name: Seremoni
+  main_event: true
+  date_alt: Lørdag 11. juni 2022 12:00
+  attire: Pent antrekk
+  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  transportation:
+  shuttle:
+  location_name: Håpets katedral
+  location:
+    address: Mindre-alvs vei 5
+    city: Isegran
+    state:
+    long_state: Fredrikstad
+    zip: 1672
+    coordinates: 59.2030732,10.942844
+    google_maps_url: https://www.google.com/maps/place/H%C3%A5pets+Katedral/@59.2030732,10.942844,17z/data=!3m1!4b1!4m5!3m4!1s0x46440302dc1ff9d3:0x69fc39bcb5533bc6!8m2!3d59.2031088!4d10.9450735
+    venue_name: Håpets katedral
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
+
+- name: Middag
+  date_alt: Lørdag 11. juni 2022 14:00
+  attire: Pent antrekk
+  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+  location_name: Najaden
+  location:
+    address: Isegran brygge
+    city: Isegran
+    state:
+    long_state: Fredrikstad
+    zip: 1672
+    coordinates: 41.911652,-87.641253
+    google_maps_url: https://www.google.com/maps/place/Najaden/@59.2039392,10.9431394,17z/data=!3m1!4b1!4m5!3m4!1s0x464403b3f16ccbab:0xa331e07d12e46b42!8m2!3d59.2039365!4d10.9453281
+    venue_name:
+
+- name: Fest
+  date_alt: Lørdag 11. juni 2022 16:00
+  attire: Pent antrekk
+  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+  location_name: Najaden
+  location:
+    address: Isegran brygge
+    city: Isegran
+    state:
+    long_state: Fredrikstad
+    zip: 1672
+    coordinates: 41.911652,-87.641253
+    google_maps_url: https://www.google.com/maps/place/Najaden/@59.2039392,10.9431394,17z/data=!3m1!4b1!4m5!3m4!1s0x464403b3f16ccbab:0xa331e07d12e46b42!8m2!3d59.2039365!4d10.9453281
+    venue_name:

@@ -1,0 +1,12 @@
+.under-construction-content {
+    padding: 6rem;
+    border-radius: 11px;
+    background: none !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.under-construction-content h1 {
+    font-size: 5rem;
+}
