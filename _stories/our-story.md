@@ -1,6 +1,8 @@
 ---
 order: 0
 ---
-## Velkommen til gards
+## Velkommen til vårt bryllup
 
-Yuhu!
+Vi gleder oss til å feire den store dagen sammen med vår familie og venner.
+
+***Vi setter stor pris på om dere kan svare på om dere kommer til Caroline innen 14. mai***
